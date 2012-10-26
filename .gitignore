@@ -2,6 +2,14 @@
 *.slo
 *.lo
 *.o
+*.log
+Debug/
+*.pdb
+Release/
+*.ipch
+*.pdb
+KEGIES/Release/
+KEGIES/Debug/
 
 # Compiled Dynamic libraries
 *.so
