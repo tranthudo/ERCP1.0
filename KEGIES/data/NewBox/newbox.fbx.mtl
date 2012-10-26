@@ -1,0 +1,7 @@
+newmtl Cube_MG_2_TX
+	Kd 1 1 1
+	Ka 1 1 1
+	Ks 1 1 1
+	illum 0
+	map_Kd newbox.fbx_TX/Cube_MG_2_TX.tga
+

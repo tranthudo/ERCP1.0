@@ -1,0 +1,8 @@
+newmtl CubeSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd newbox.fbx_TX/Cube_MG_2_TX.tga
+
